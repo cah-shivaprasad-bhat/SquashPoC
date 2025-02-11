@@ -41,7 +41,11 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
 }
-
+// Amend 1
+// Amend 2
+// Amend 3
+// Amend 4
+// Amend 5
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
