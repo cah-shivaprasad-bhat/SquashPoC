@@ -34,6 +34,10 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+// Git new commit 1
+// Git new commit 2
+// Git new commit 3
+// Git extra commit
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
