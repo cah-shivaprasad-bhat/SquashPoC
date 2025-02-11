@@ -47,7 +47,12 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     )
 }
 
-@Preview(showBackground = true)
+
+// Squash 1
+// Squash 2
+// Squash 3
+// Squash 4
+ @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
     SquashPoCTheme {
