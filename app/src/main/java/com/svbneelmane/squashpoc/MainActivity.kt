@@ -36,6 +36,8 @@ class MainActivity : ComponentActivity() {
 // new solution 1
 // new solution 2
 // new solution 3
+// new solution 4
+// new solution 5
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
