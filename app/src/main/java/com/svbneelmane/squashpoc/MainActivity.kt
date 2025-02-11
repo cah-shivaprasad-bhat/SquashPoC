@@ -19,7 +19,8 @@ class MainActivity : ComponentActivity() {
     // Commit 3: Adding commit 3
     // Commit 4: Adding commit 4
     // Commit 5: Adding commit 5
-    // Commit 5: Adding commit 6
+    // Commit 6: Adding commit 6
+    // Commit 7: Adding commit 7
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -35,6 +36,8 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
+// New comitable code
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
