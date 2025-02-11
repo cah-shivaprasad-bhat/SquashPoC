@@ -34,6 +34,11 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+// Amend commit 1
+// Amend commit 2
+// Amend commit 3
+// Amend commit 4
+// Amend commit 5
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
