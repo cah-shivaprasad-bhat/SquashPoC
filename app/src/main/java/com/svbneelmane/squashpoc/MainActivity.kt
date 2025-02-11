@@ -14,10 +14,9 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.svbneelmane.squashpoc.ui.theme.SquashPoCTheme
 
 class MainActivity : ComponentActivity() {
-    // Commit 1: Adding commit 1
-    // Commit 2: Adding commit 2
-    // Commit 3: Adding commit 3
-    // Commit 4: Adding commit 4
+    // Deepak 1
+    // Deepak 2
+    // Deepak 3
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
