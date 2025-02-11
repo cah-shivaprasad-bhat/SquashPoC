@@ -18,6 +18,8 @@ class MainActivity : ComponentActivity() {
     // Commit 2: Adding commit 2
     // Commit 3: Adding commit 3
     // Commit 4: Adding commit 4
+    // Commit 5: Adding commit 5
+    // Commit 5: Adding commit 6
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
