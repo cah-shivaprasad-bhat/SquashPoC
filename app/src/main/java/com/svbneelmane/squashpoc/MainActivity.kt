@@ -15,6 +15,7 @@ import com.svbneelmane.squashpoc.ui.theme.SquashPoCTheme
 
 class MainActivity : ComponentActivity() {
     // One
+    // Two
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
