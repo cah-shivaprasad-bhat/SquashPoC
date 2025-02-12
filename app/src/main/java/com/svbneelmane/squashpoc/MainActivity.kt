@@ -14,9 +14,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.svbneelmane.squashpoc.ui.theme.SquashPoCTheme
 
 class MainActivity : ComponentActivity() {
-    // Demo Commit 1
-    // Demo Commit 2
-    // Demo Commit 3
+    // Demo 1
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -33,9 +31,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-// Squash 1
-// Squash 2
-// Squash 3
+// Demo 2
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
@@ -45,10 +41,9 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 }
 
 
-// Squash 1
-// Squash 2
-// Squash 3
-// Squash 4
+// Commit 1
+// Commit 3
+// Final commit
  @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
